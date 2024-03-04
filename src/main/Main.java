@@ -11,6 +11,8 @@ public class Main {
         System.out.println("Enter number: ");
         int number  = scanner.nextInt();
 
+        System.out.println("Test New Line Message");
+
 
     }
 }
